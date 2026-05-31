@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerctringify",
+        "uuid": 15407964,
+        "checksum": "eca1m"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
